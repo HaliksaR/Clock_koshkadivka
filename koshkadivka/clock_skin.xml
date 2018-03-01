@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<clockskin>
+	<drawable>
+		<name>back.png</name>
+	</drawable>
+	<drawable>
+		<name>clock_skin_hour.png</name>
+		<rotate>1</rotate>
+	</drawable>
+	<drawable>
+		<name>clock_skin_minute.png</name>
+		<rotate>2</rotate>
+	</drawable>
+	<drawable>
+		<name>1.png</name>
+	</drawable>
+	<drawable>
+		<name>hour_minute_array.xml</name>
+		<arraytype>6</arraytype>
+		<centerX>139</centerX>
+		<centerY>1</centerY>
+	</drawable>
+	<drawable>
+		<name>weekday_array.xml</name>
+		<arraytype>5</arraytype>
+		<centerX>38</centerX>
+		<centerY>67</centerY>
+	</drawable>
+	<drawable>
+		<name>day_array.xml</name>
+		<arraytype>4</arraytype>
+		<centerX>76</centerX>
+		<centerY>67</centerY>
+	</drawable>
+	<drawable>
+		<name>weather_array.xml</name>
+		<arraytype>10</arraytype>
+		<centerX>54</centerX>
+		<centerY>95</centerY>
+	</drawable>
+	<drawable>
+		<name>battary_array.xml</name>
+		<arraytype>14</arraytype>
+		<centerX>-86</centerX>
+		<centerY>-148</centerY>
+	</drawable>
+</clockskin>
